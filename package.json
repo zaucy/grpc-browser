@@ -4,7 +4,9 @@
   "description": "",
   "main": "src/index.js",
   "browser": "dist/grpc-browser.bundle.js",
-  "scripts": {},
+  "scripts": {
+    "prepublishOnly": "webpack-cli"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zaucy/grpc-browser.git"

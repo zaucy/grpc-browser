@@ -19,6 +19,7 @@
   "homepage": "https://github.com/zaucy/grpc-browser#readme",
   "dependencies": {},
   "devDependencies": {
+    "protobufjs": "^6.8.6",
     "webpack": "^4.0.1",
     "webpack-cli": "^2.0.10"
   }

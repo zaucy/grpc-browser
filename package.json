@@ -17,9 +17,7 @@
     "url": "https://github.com/zaucy/grpc-browser/issues"
   },
   "homepage": "https://github.com/zaucy/grpc-browser#readme",
-  "dependencies": {
-    "grpc": "^1.9.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "webpack": "^4.0.1",
     "webpack-cli": "^2.0.10"

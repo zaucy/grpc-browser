@@ -20,7 +20,7 @@
   "dependencies": {},
   "devDependencies": {
     "protobufjs": "^6.8.6",
-    "webpack": "^4.0.1",
-    "webpack-cli": "^2.0.10"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
